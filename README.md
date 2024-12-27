@@ -21,4 +21,4 @@ Extensive unit testing coverage
 
 
 
-Built as part of CMSC 341 (Data Structures) coursework at UMBC. CopyRetryClaude can make mistakes. Please double-check responses.
+Built as part of CMSC 341 (Data Structures) coursework at UMBC.
